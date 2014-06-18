@@ -330,6 +330,7 @@ line-height:100px;
  .nav-wrap ul li { 
  display:inline-block; 
 padding:0px 10px;
+text-shadow:2px 2px 5px #000;
 }
 
         
@@ -338,8 +339,8 @@ padding:0px 10px;
   .nav-wrap ul li a{
  font-family: 'PT Serif', serif;
 font-size:16px;
- color:#fff;
 text-decoration: none;
+color:#fff;
 text-transform:uppercase;
 text-shadow:2px 2px 5px #000;
 }
