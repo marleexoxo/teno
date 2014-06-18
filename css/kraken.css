@@ -365,14 +365,14 @@ color:white;
     padding-left:30px;
 }
 
-  .nav-wrap ul li.instagram a:before { 
+.nav-wrap ul li.instagram a:before { 
     content: "\f16d";
 }
 .nav-wrap ul li.twitter a:before { 
     content: "\f081"; 
 }
   .nav-wrap ul li.vine a:before{ 
-    content: "\f0d3";
+    content: "\f1ca";
 }
 
 .backgroundvideo{
