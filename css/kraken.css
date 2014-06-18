@@ -314,7 +314,30 @@ p {
   margin-bottom: 1.5625em;
 }
 
-
+nav h1{ 
+  margin:0;
+ text-align:left; 
+ text-shadow:2px 2px 5px #000; 
+opacity:1;
+}
+nav ul { 
+  list-style:none; 
+  margin:20px 0; 
+  padding:0; 
+  text-align:left; }
+nav ul li { 
+  display:inline-block;
+ padding:0 20px; 
+ margin:0 20px; 
+}
+nav ul li:hover {
+ background-color:#1e2328;
+  }
+nav ul li a { 
+  color:#fff; 
+  text-decoration:none;
+   text-transform:uppercase;
+    }
 
 @media (min-width: 40em) {
   body {
