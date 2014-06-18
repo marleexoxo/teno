@@ -316,37 +316,63 @@ p {
 
 .nav-wrap{
   height:100px;
- 
+ float:left;
+ margin:0 auto;
   position:fixed;
 }
 
-.nav-wrap img{
-  margin-top:10px;
+.nav-wrap ul{ 
+float:left;
+line-height:100px;
+
+    
+}
+ .nav-wrap ul li { 
+ display:inline-block; 
+padding:0px 10px;
 }
 
-.nav-wrap h1{ 
-  line-height:100px;
-  list-style:none; 
-  margin:0 auto; 
-  padding:0; 
-  text-align:left; 
-text-shadow:2px 2px 5px #000; }
+        
+         }
 
-  .nav-wrap h1 a { 
- padding:0 10px; 
-
- color:#fff; 
-  text-decoration:none;
-   text-transform:uppercase; 
+  .nav-wrap ul li a{
+ font-family: 'PT Serif', serif;
+font-size:16px;
+ color:#fff;
+text-decoration: none;
+text-transform:uppercase;
+text-shadow:2px 2px 5px #000;
 }
-.nav-wrap h1 a:hover {
+    
+
+
+
+.nav-wrap ul li a:hover {
 color:#ccc;
+ text-decoration:none;
 
   }
-.navwrap ul li{
-color:white;
 
+ .nav-wrap ul li a:before{ 
+ font-family:FontAwesome;
+color:#ec008c;
 }
+
+.nav-wrap ul li.facebook a:before {
+    content: "\f082";
+    padding-left:30px;
+}
+
+  .nav-wrap ul li.instagram a:before { 
+    content: "\f16d";
+}
+.nav-wrap ul li.twitter a:before { 
+    content: "\f081"; 
+}
+  .nav-wrap ul li.vine a:before{ 
+    content: "\f0d3";
+}
+
 .backgroundvideo{
 
 position: fixed; 
