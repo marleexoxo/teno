@@ -314,8 +314,12 @@ p {
   margin-bottom: 1.5625em;
 }
 
+header{
+  height:50px;
+}
 
 .nav-wrap { 
+  line-height:50px;
   list-style:none; 
   margin:10px 0; 
   padding:0; 
