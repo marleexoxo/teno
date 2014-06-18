@@ -333,15 +333,14 @@ p {
 text-shadow:2px 2px 5px #000; }
 
   .nav-wrap h1 a { 
-  display:inline-block;
- padding:0 20px; 
+ padding:0 10px; 
 
  color:#fff; 
   text-decoration:none;
    text-transform:uppercase; 
 }
 .nav-wrap h1 a:hover {
- background-color:#1e2328;
+opacity:1;
   }
 
 .backgroundvideo{
