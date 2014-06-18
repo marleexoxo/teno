@@ -361,15 +361,15 @@ color:white;
 }
 
 .nav-wrap ul li.facebook a:before {
-    content: "\f082";
+   content: "\f09a";
     padding-left:30px;
 }
 
 .nav-wrap ul li.instagram a:before { 
-    content: "\f16d";
+   content: "\f16d";
 }
 .nav-wrap ul li.twitter a:before { 
-    content: "\f081"; 
+   content: "\f099";
 }
   .nav-wrap ul li.vine a:before{ 
     content: "\f1ca";
