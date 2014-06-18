@@ -314,19 +314,18 @@ p {
   margin-bottom: 1.5625em;
 }
 
-.nav-warp img{ 
+.nav-wrap{ 
   margin:0;
  text-align:left; 
  text-shadow:2px 2px 5px #000; 
 
-}
-.nav-wrap { 
-  list-style:none; 
+
+
   margin:20px 0; 
   padding:0; 
-  text-align:left; }
+}
 
-  .nav-warp a { 
+  .nav-wrap a { 
   display:inline-block;
  padding:0 20px; 
  margin:0 20px;
