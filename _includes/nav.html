@@ -7,11 +7,11 @@
 
 
 		<h1>
-			<a href="{{ site.baseurl }}/"> {% raw %}<img src="{{ 'images/logo.png' }}" alt="" />{% endraw %}</a>
+			<a href="{{ site.baseurl }}/"> {% raw %}<img src="images/logo.png"></a>
 
 			{% for page in site.pages %}
-			{% if page.title != "mySecondJekyllSite" %}
-				<a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a>
+			{% if page.title !=  %}
+				<a href="{{ site.baseurl }}/{{ page.url }}"></a>
 			{% endif %}
 			{% endfor %}
 	
