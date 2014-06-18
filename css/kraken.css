@@ -418,14 +418,14 @@ background-size: cover;
 /*  Links
  *  Hyperlink styling */
 a {
-  color: #0088cc;
+  color: #fff;
   text-decoration: none;
   word-wrap: break-word;
 }
 
 a:hover {
-  color: #005580;
-  text-decoration: underline;
+ opacity:1;
+
 }
 
 a img {
