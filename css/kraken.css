@@ -314,8 +314,9 @@ p {
   margin-bottom: 1.5625em;
 }
 
-header{
+.navigation{
   height:50px;
+  background-color:green;
 }
 
 .nav-wrap { 
