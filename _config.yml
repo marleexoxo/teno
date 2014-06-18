@@ -2,7 +2,7 @@ name: "TENO"
 description: "my description"
 
 url: "http://marleexoxo.github.io/teno/"
-baseurl: "/week3"
+baseurl: "/teno"
 paginate: 10
 
 markdown: rdiscount
