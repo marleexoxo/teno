@@ -314,18 +314,19 @@ p {
   margin-bottom: 1.5625em;
 }
 
-.nav-wrap{ 
+.nav-wrap img{ 
   margin:0;
  text-align:left; 
  text-shadow:2px 2px 5px #000; 
 
-
-
+}
+.nav-wrap { 
+  list-style:none; 
   margin:20px 0; 
   padding:0; 
-}
+  text-align:left; }
 
-  .nav-wrap a { 
+  .nav-wrap h1 a { 
   display:inline-block;
  padding:0 20px; 
  margin:0 20px;
@@ -333,7 +334,7 @@ p {
   text-decoration:none;
    text-transform:uppercase; 
 }
-.nav-wrap a:hover {
+.nav-wrap h1 a:hover {
  background-color:#1e2328;
   }
 
