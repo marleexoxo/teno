@@ -1,0 +1,24 @@
+---
+layout: page
+title: title
+---
+
+
+
+<section>
+	<article class="container">
+	<h1>Wasssuppp</h1>
+	<h4>why isn't my shit working</h4>
+	<h4>I'm going to put some posts here:</h4>
+
+	{% for post in site.posts %}
+		<h3>
+			<!-- connecting posts and turning posts into links-->
+			<a href="{{ site.baseurl }}{{ post.url }}">
+			{{ post.title }}</a>
+		</h3>
+			<p>{{ post.content }}</p>
+
+	{% endfor %}
+</article>
+</section>
