@@ -318,10 +318,7 @@ p {
   height:100px;
   background-color:blue;
 }
-.nav-wrap a img{
-line-height:100px;
 
-}
 .nav-wrap h1{ 
   line-height:100px;
   list-style:none; 
@@ -333,7 +330,7 @@ text-shadow:2px 2px 5px #000; }
   .nav-wrap h1 a { 
   display:inline-block;
  padding:0 10px; 
- margin:0 10px;
+
  color:#fff; 
   text-decoration:none;
    text-transform:uppercase; 
