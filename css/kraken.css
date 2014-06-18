@@ -319,6 +319,10 @@ p {
   background-color:blue;
 }
 
+.nav-wrap img{
+  margin-top:10px;
+}
+
 .nav-wrap h1{ 
   line-height:100px;
   list-style:none; 
