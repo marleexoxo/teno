@@ -363,8 +363,8 @@ color:white;
 .nav-wrap ul li.circle a:before { 
 content: "\f055";
 font-size:38px;
-background-color:#cb6379;
-color:#fff;
+color:#cb6379;
+
 
 }
 .nav-wrap ul li.facebook a:before {
