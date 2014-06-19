@@ -350,7 +350,7 @@ text-shadow:2px 2px 5px #000;
 
 
 .nav-wrap ul li a:hover {
-  opacity: 1.0;
+  opacity: 0.4;
   filter: alpha(opacity=100); /* For IE8 and earlier */
  text-decoration:none;
 
@@ -365,7 +365,7 @@ color:white;
 content: "\f055";
 font-size:38px;
 color:#7B2C49;
-opacity: 0.4;
+opacity: 1.0;
     filter: alpha(opacity=40); /* For IE8 and earlier */
 
 
