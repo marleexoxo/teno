@@ -350,7 +350,7 @@ text-shadow:2px 2px 5px #000;
 
 
 .nav-wrap ul li a:hover {
-
+  opacity:1;
  text-decoration:none;
 
   }
@@ -364,6 +364,7 @@ color:white;
 content: "\f055";
 font-size:38px;
 color:#cb6379;
+opacity:1;
 
 
 }
