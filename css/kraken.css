@@ -362,31 +362,31 @@ color:white;
 
 .nav-wrap ul li.circle a:before { 
 content: "\f055";
-font-size:20px;
+font-size:25px;
 
 }
 .nav-wrap ul li.facebook a:before {
    content: "\f09a";
- padding-left:50px;
-    font-size:16px
+ padding-left:100px;
+    font-size:20px
 }
 
 .nav-wrap ul li.instagram a:before { 
    content: "\f16d";
   
-    font-size:16px
+    font-size:20px
 
 
 }
 .nav-wrap ul li.twitter a:before { 
    content: "\f099";
 
-    font-size:16px
+    font-size:20px
 }
   .nav-wrap ul li.vine a:before{ 
     content: "\f1ca";
     
-    font-size:16px
+    font-size:20px
 }
 
 .backgroundvideo{
