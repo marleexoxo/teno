@@ -360,22 +360,33 @@ text-shadow:2px 2px 5px #000;
 color:white;
 }
 
-.nav-wrap ul li.facebook a:before {
-   content: "\f09a";
-    padding-left:30px;
-}
 .nav-wrap ul li.circle a:before { 
 content: "\f055";
+font-size:14px;
 
 }
+.nav-wrap ul li.facebook a:before {
+   content: "\f09a";
+float:right;
+    font-size:12px
+}
+
 .nav-wrap ul li.instagram a:before { 
    content: "\f16d";
+   float:right;
+    font-size:12px
+
+
 }
 .nav-wrap ul li.twitter a:before { 
    content: "\f099";
+   float:right;
+    font-size:12px
 }
   .nav-wrap ul li.vine a:before{ 
     content: "\f1ca";
+    float:right;
+    font-size:12px
 }
 
 .backgroundvideo{
