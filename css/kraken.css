@@ -364,7 +364,10 @@ color:white;
    content: "\f09a";
     padding-left:30px;
 }
+.nav-wrap ul li.circle a:before { 
+content: "\f055";
 
+}
 .nav-wrap ul li.instagram a:before { 
    content: "\f16d";
 }
