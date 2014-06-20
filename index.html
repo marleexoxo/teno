@@ -69,3 +69,61 @@ title: title
 	{% endfor %}-->
 </article>
 </section>
+
+	<script>
+
+	$(document).ready(function(){
+
+
+$.fn.scrollify = function() {
+
+	return this.each(function(){
+		$(this).click(function(event){
+			event.preventDefault();
+			var target = $(this).attr("href");
+			$("body").animate({scrollTop: $(target).offset().top},500)
+		});
+	})
+}
+$("nav a").scrollify();
+
+  $('.main-section').windows({
+        snapping: true,
+        snapSpeed: 500,
+        snapInterval: 300
+        });//end main-section
+
+$(".nav-wrap").headroom({
+
+    // vertical offset in px before element is first unpinned
+    offset : 100,
+    // scroll tolerance in px before state changes
+    tolerance : 0,
+    // css classes to apply
+    classes : {
+        // when element is initialised
+        initial : "headroom",
+        // when scrolling up
+        pinned : "headroom-pinned",
+        // when scrolling down
+        unpinned : "headroom-unpinned",
+        // when above offset
+        top : "headroom-top"
+        // when below offset
+    }//end header
+});//close header
+  $.scrollUp({
+    scrollName: 'scroll-up', // Element ID
+    topDistance: '500', // Distance from top before showing element (px)
+    topSpeed: 500, // Speed back to top (ms)
+    animation: 'slide', // Fade, slide, none
+    animationInSpeed: 200, // Animation in speed (ms)
+    animationOutSpeed: 200, // Animation out speed (ms)
+    scrollText: 'Back to top', // Text for element
+    activeOverlay: false, // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+  });
+
+
+});//end ready function
+    
+</script>
