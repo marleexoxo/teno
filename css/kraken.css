@@ -335,7 +335,8 @@ text-shadow:2px 2px 5px #000;
 }
 
         
-         
+         }
+
   .nav-wrap ul li a{
  font-family: 'PT Serif', serif;
 font-size:16px;
@@ -407,16 +408,6 @@ background: url(//player.vimeo.com/video/95704132) no-repeat;
 background-size: cover;
 }
 
-.navwrap ul li #videos a{
- display:hidden;
-}
-
-.navwrap ul li #videos a:active{
- display:visible;
-}
-
-
-}
 .contactme{
 
 
@@ -533,8 +524,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1em;
   padding-top: 1em;
   word-wrap: break-word;
-
-  
 }
 
 h1,
