@@ -418,7 +418,15 @@ background-size: cover;
 }
 
 
+#videos{
 
+  display:none;
+}
+
+#videos:active{
+
+  display:visible;
+}
 
 @media (min-width: 40em) {
   body {
