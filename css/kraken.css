@@ -417,26 +417,9 @@ background-size: cover;
   color:white;
 }
 
-#circle1{
-  z-index:1;
 
 
-}
 
-#scroll-up {
-    bottom: 20px;
-    right: 20px;
-    padding: 10px 20px;
-    background: #555;
-    color: #fff;
-    text-decoration:none;
-  }
-  
-  #scroll-up:before {
-    content: "\f0aa";
-    font-family: 'FontAwesome';
-    margin-right:5px; 
-  }
 @media (min-width: 40em) {
   body {
     line-height: 1.5625;
