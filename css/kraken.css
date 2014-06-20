@@ -362,7 +362,7 @@ text-shadow:2px 2px 5px #000;
 color:white;
 }
 
-.nav-wrap h1 #circle1 a:before { 
+.nav-wrap h1 #circle a:before { 
 content: "\f055";
 font-size:38px;
 color:#7B2C49;
