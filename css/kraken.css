@@ -407,6 +407,16 @@ background: url(//player.vimeo.com/video/95704132) no-repeat;
 background-size: cover;
 }
 
+.navwrap ul li #videos a{
+ display:hidden;
+}
+
+.navwrap ul li #videos a:active{
+ display:visible;
+}
+
+
+}
 .contactme{
 
 
