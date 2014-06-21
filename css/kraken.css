@@ -338,19 +338,19 @@ background-color:pink;
   height:84px;
   float:left;
   width:100px;
-  padding-top:10px;
+
 
 }
 .grid-half{
   height:50px;
-  padding-top:30px;
+
   float:left;
   }
 
 
 .grid-half h1{
   float:left;
-  line-height:50px;
+  line-height:84px;
   
 }
 .grid-half a:hover {
