@@ -334,7 +334,25 @@ background-color:pink;
     
 
 
+.logo{
+  height:84px;
+  float:left;
+  width:100px;
+  padding-top:10px;
 
+}
+.grid-half{
+  height:50px;
+  padding-top:30px;
+  float:left;
+  }
+
+
+.grid-half h1{
+  float:left;
+  line-height:50px;
+  
+}
 .grid-half a:hover {
   opacity: 1;
   color:#f7f7f7;
@@ -351,6 +369,7 @@ color:white;
 .fa-plus-circle a:before { 
 font-size:38px;
 color:#7B2C49;
+color:white;
 
 
 
