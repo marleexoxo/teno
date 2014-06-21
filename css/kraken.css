@@ -322,34 +322,28 @@ p {
   position:fixed;
 }
 
-.nav-wrap ul{ 
+.nav-wrap h1 { 
 float:left;
 line-height:100px;
 
     
 }
- .nav-wrap ul li { 
+ .nav-wrap h1 a { 
  display:inline-block; 
 padding:0px 10px;
 text-shadow:2px 2px 5px #000;
-}
-
-        
-         }
-
-  .nav-wrap ul li a{
  font-family: 'PT Serif', serif;
 font-size:16px;
 text-decoration: none;
 color:#fff;
 text-transform:uppercase;
-text-shadow:2px 2px 5px #000;
+
 }
     
 
 
 
-.nav-wrap ul li a:hover {
+.nav-wrap h1 a:hover {
   opacity: 1;
   color:#f7f7f7;
   filter: alpha(opacity=100); /* For IE8 and earlier */
@@ -357,12 +351,12 @@ text-shadow:2px 2px 5px #000;
 
   }
 
- .nav-wrap ul li a:before{ 
+ .nav-wrap h1 a:before{ 
  font-family:FontAwesome;
 color:white;
 }
 
-.nav-wrap ul li.circle a:before { 
+.nav-wrap h1.circle a:before { 
 content: "\f055";
 font-size:38px;
 color:#7B2C49;
@@ -370,25 +364,25 @@ color:#7B2C49;
 
 
 }
-.nav-wrap ul li.facebook a:before {
+.nav-wrap h1.facebook a:before {
    content: "\f09a";
  padding-left:300px;
     font-size:20px
 }
 
-.nav-wrap ul li.instagram a:before { 
+.nav-wrap h1.instagram a:before { 
    content: "\f16d";
   
     font-size:20px
 
 
 }
-.nav-wrap ul li.twitter a:before { 
+.nav-wrap h1.twitter a:before { 
    content: "\f099";
 
     font-size:20px
 }
-  .nav-wrap ul li.vine a:before{ 
+  .nav-wrap h1.vine a:before{ 
     content: "\f1ca";
     
     font-size:20px
