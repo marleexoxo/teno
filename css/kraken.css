@@ -410,7 +410,10 @@ background-size: cover;
 }
 
 
+.bigbox{
+margin-left:50px;
 
+}
 @media (min-width: 40em) {
   body {
     line-height: 1.5625;
