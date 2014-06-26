@@ -438,11 +438,15 @@ background-color:white;
 margin-top:10px;
 
 }
+.videoreel .grid-two-thirds{
+background-color:yellow;
+margin-top:10px;
+
+}
 
 .videoreel .grid-half{
 background-color:orange;
 margin-top:10px;
-margin-left:10px;
 
 }
 @media (min-width: 40em) {
