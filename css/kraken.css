@@ -414,7 +414,9 @@ background-size: cover;
 margin-top:50px;
 
 }
-
+.videoreel {
+  background-color:white;
+}
 .videoreel .grid-full{
 background-color:pink;
 margin-bottom:10px;
