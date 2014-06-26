@@ -414,6 +414,16 @@ background-size: cover;
 margin-top:50px;
 
 }
+
+.videoreel .grid-full{
+background-color:pink;
+
+}
+
+.videoreel .grid-fourth{
+background-color:pink;
+
+}
 @media (min-width: 40em) {
   body {
     line-height: 1.5625;
