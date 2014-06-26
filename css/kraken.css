@@ -438,6 +438,13 @@ background-color:white;
 margin-top:10px;
 
 }
+
+.videoreel .grid-half{
+background-color:orange;
+margin-top:10px;
+margin-left:10px;
+
+}
 @media (min-width: 40em) {
   body {
     line-height: 1.5625;
