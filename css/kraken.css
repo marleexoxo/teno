@@ -417,11 +417,13 @@ margin-top:50px;
 
 .videoreel .grid-full{
 background-color:pink;
+margin-bottom:10px;
 
 }
 
 .videoreel .grid-fourth{
-background-color:pink;
+background-color:blue;
+margin-top:10px;
 
 }
 @media (min-width: 40em) {
