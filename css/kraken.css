@@ -417,40 +417,19 @@ margin-top:50px;
 .videoreel {
   background-color:white;
 }
-.videoreel .grid-full{
-background-color:pink;
-margin-bottom:10px;
-
+.videoreel .grid-half{
+  margin-top:10px;
 }
 
 .videoreel .grid-fourth{
-background-color:blue;
+
 margin-top:10px;
 
 }
 
-.videoreel .grid-three-fourths{
-background-color:green;
-margin-top:10px;
 
-}
 
-.videoreel .grid-third{
-background-color:white;
-margin-top:10px;
 
-}
-.videoreel .grid-two-thirds{
-background-color:yellow;
-margin-top:10px;
-
-}
-
-.videoreel .grid-half{
-background-color:orange;
-margin-top:10px;
-
-}
 @media (min-width: 40em) {
   body {
     line-height: 1.5625;
