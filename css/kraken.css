@@ -430,7 +430,14 @@ margin-top:10px;
 }
 
 
-
+.circle{
+  width: 100px;
+  height: 100px;
+  background: pink;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+}
 
 @media (min-width: 40em) {
   body {
