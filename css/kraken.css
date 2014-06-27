@@ -443,7 +443,7 @@ margin-top:10px;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
-  margin-left:50px;
+  
 }
 .circle2{
   width: 300px;
@@ -461,7 +461,7 @@ margin-top:10px;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
-  margin-right:50px;
+  
 }
 
 .circle4{
@@ -476,13 +476,13 @@ margin-top:10px;
 
 .abouttext{
   color:white;
-  font-size:30px;
+  font-size:100px;
   opacity:1;
 }
 
 .abouttext1{
 color:black;
-font-size:30px;
+font-size:100px;
 
 }
 
