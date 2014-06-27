@@ -439,35 +439,37 @@ margin-top:10px;
 .circle{
   width: 300px;
   height: 300px;
-  background: pink;
+  background:#E84A92 ;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
-  
+  opacity:.3;
 }
 .circle2{
   width: 300px;
   height: 300px;
-  background: green;
+  background: #FAF18B;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
+  opacity:.3;
 }
 
 .circle3{
   width: 300px;
   height: 300px;
-  background: blue;
+  background: #3CB3D8;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
+  opacity:.3;
   
 }
 
 .circle4{
   width: 300px;
   height: 300px;
-  background: orange;
+  background: #9E9F9F;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
@@ -476,13 +478,16 @@ margin-top:10px;
 
 .abouttext{
   color:white;
-  font-size:150px;
+  font-size:200px;
   opacity:.3;
+  font-weight:bold;
 }
 
 .abouttext1{
 color:black;
-font-size:150px;
+font-size:200px;
+opacity:.3;
+font-weight:bold;
 
 }
 
