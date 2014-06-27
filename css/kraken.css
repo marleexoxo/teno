@@ -414,6 +414,11 @@ background-size: cover;
 margin-top:50px;
 
 }
+/*VIDEOS */
+
+.videos{
+  background-color:black;
+}
 .videoreel {
   background-color:white;
 }
