@@ -428,7 +428,14 @@ margin-top:50px;
 margin-top:10px;
 
 }
-
+.circle1{
+  width: 200px;
+  height: 200px;
+  background: pink;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 100px;
+}
 
 .circle{
   width: 400px;
