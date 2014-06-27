@@ -397,7 +397,7 @@ color:#7B2C49;
 
 .backgroundvideo{
 
-/*position: fixed;*
+/*position: fixed;*/
 right: 0; 
 bottom: 0;
 min-width: 100%; 
@@ -427,14 +427,6 @@ margin-top:50px;
 
 margin-top:10px;
 
-}
-.circle1{
-  width: 200px;
-  height: 200px;
-  background: pink;
-  -moz-border-radius: 100px;
-  -webkit-border-radius: 100px;
-  border-radius: 100px;
 }
 
 .circle{
