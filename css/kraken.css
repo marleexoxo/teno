@@ -436,8 +436,8 @@ margin-top:10px;
 }
 
 /*About*/
-.aboutbackground{
-
+.aboutbackground .grid-full{
+height:500px;
   background-color:white;
 }
 .circle{
