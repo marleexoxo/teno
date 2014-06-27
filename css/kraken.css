@@ -325,11 +325,9 @@ background-color:green;
     position: fixed;
     min-width: 100%;
     list-style:none;
-    border-top: 1px solid #ccc;
-    border-left: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
+  
     
-   height:100px;
+   height:84px;
 }
 .grid-two-thirds h1 a { 
 
