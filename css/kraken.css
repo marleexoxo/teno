@@ -319,6 +319,19 @@ p {
   line-height:100px;
 background-color:green;
 }*/
+.navigation{
+
+    display: inline-block;
+    position: fixed;
+    min-width: 100%;
+    list-style:none;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    top:112px;
+    background-color:#666;
+    text-align: center;
+}
 
 .grid-two-thirds h1 a { 
 
