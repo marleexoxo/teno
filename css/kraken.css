@@ -429,7 +429,11 @@ margin-top:50px;
 margin-top:10px;
 
 }
+/*CONTaCT*/
+.contactbackground{
 
+  background-color:white;
+}
 .circle{
   width: 300px;
   height: 300px;
