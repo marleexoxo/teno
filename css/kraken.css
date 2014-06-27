@@ -475,10 +475,20 @@ height:500px;
   -moz-border-radius: 150px;
   -webkit-border-radius: 150px;
   border-radius: 150px;
+  opacity:1;
 }
 
+.abouttext{
+  color:white;
+  font-size:30px;
+  opacity:1;
+}
 
+.abouttext1{
+color:black;
+font-size:30px;
 
+}
 
 @media (min-width: 40em) {
   body {
