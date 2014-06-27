@@ -429,17 +429,13 @@ margin-top:50px;
 margin-top:10px;
 
 }
-/*CONTaCT*/
-.contactbackground .grid-fourth{
+/*about*/
+.aboutbackground .grid-fourth{
 
   background-color:white;
 }
 
-/*About*/
-.aboutbackground .grid-full{
-height:500px;
-  background-color:white;
-}
+
 .circle{
   width: 300px;
   height: 300px;
@@ -488,6 +484,12 @@ height:500px;
 color:black;
 font-size:30px;
 
+}
+
+/*contact*/
+.contactbackground .grid-full{
+height:500px;
+  background-color:white;
 }
 
 @media (min-width: 40em) {
