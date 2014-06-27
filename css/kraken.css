@@ -397,7 +397,7 @@ color:#7B2C49;
 
 .backgroundvideo{
 
-position: fixed;
+/*position: fixed;*/
 right: 0; 
 bottom: 0;
 top:0;
@@ -406,8 +406,8 @@ min-height: 100%;
 width: auto; 
 height:auto; 
 z-index: -100;
-/*background: url(//player.vimeo.com/video/95704132) no-repeat;
-background-size: cover;*/
+background: url(//player.vimeo.com/video/95704132) no-repeat;
+background-size: cover;
 }
 
 
