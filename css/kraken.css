@@ -320,14 +320,21 @@ p {
 background-color:green;
 }*/
 .navigation{
+  position:fixed; 
+  top:0; 
+  left:0; 
+  width:100%; 
+  background-color:blue;
+  transition:.5s; 
+  -webkit-transition:.5; 
 
-    display: inline-block;
+    /*display: inline-block;
     position: fixed;
     min-width: 100%;
     list-style:none;
   
     
-   height:84px;
+   height:84px;*/
 }
 .grid-two-thirds h1 a { 
 
@@ -368,7 +375,7 @@ font-size:28px;
 
   }
 
- .nav-wrap a:before{ 
+ .main-menu a:before{ 
  font-family:FontAwesome;
 
 }
