@@ -337,12 +337,12 @@ background-color:green;
    height:84px;*/
 }
 
-header.headroom-not-top { height:50px; }
-  header.headroom-not-top  h1 { float:left; font-size:30px; line-height:50px; }
-  header.headroom-not-top nav { float:right; }
-  header.headroom-not-top nav .grid-two-thirds { margin:0; }
-  header.headroom-not-top .grid-two-thirds  h1 { display:block; float:left; padding:0 20px; margin:0 10px; }
-  header.headroom-not-top .grid-two-thirds h1 a { font-size:16px; line-height:50px; }
+.navigation.headroom-not-top { height:50px; }
+ .navigation.headroom-not-top  h1 { float:left; font-size:30px; line-height:50px; }
+ .navigation.headroom-not-top nav { float:right; }
+.navigation.headroom-not-top nav .grid-two-thirds { margin:0; }
+ .navigation.headroom-not-top .grid-two-thirds  h1 { display:block; float:left; padding:0 20px; margin:0 10px; }
+.navigation.headroom-not-top .grid-two-thirds h1 a { font-size:16px; line-height:50px; }
 
 .grid-two-thirds h1 a { 
 
