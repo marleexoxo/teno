@@ -320,29 +320,17 @@ p {
 background-color:green;
 }*/
 .navigation{
-  position:fixed; 
-  top:0; 
-  left:0; 
-  width:100%; 
-  background-color:blue;
-  transition:.5s; 
-  -webkit-transition:.5; 
+ 
 
-    /*display: inline-block;
+  display: inline-block;
     position: fixed;
     min-width: 100%;
     list-style:none;
   
     
-   height:84px;*/
+   height:84px;
 }
 
-.navigation.headroom-not-top { height:50px; }
- .navigation.headroom-not-top  h1 { float:left; font-size:30px; line-height:50px; }
- .navigation.headroom-not-top nav { float:right; }
-.navigation.headroom-not-top nav .grid-two-thirds { margin:0; }
- .navigation.headroom-not-top .grid-two-thirds  h1 { display:block; float:left; padding:0 20px; margin:0 10px; }
-.navigation.headroom-not-top .grid-two-thirds h1 a { font-size:16px; line-height:50px; }
 
 .grid-two-thirds h1 a { 
 
@@ -383,7 +371,7 @@ font-size:28px;
 
   }
 
- .main-menu a:before{ 
+.nav-wrap a:before{ 
  font-family:FontAwesome;
 
 }
